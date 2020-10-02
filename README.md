@@ -26,6 +26,7 @@ You can support Ionide development on [Open Collective](https://opencollective.c
 
 - Syntax highlighting
 - Auto completions
+- Debugging
 - Error highlighting, error list, and quick fixes based on errors
 - Tooltips
 - Method parameter hints
